@@ -1,0 +1,42 @@
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\jagathFoods-SDP.exe
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\jagathFoods-SDP.deps.json
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\jagathFoods-SDP.runtimeconfig.json
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\jagathFoods-SDP.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\jagathFoods-SDP.pdb
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.csproj.GenerateResource.cache
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.AssemblyInfoInputs.cache
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.AssemblyInfo.cs
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.csproj.CoreCompileInputs.cache
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\refint\jagathFoods-SDP.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.pdb
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.genruntimeconfig.cache
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\ref\jagathFoods-SDP.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.csproj.AssemblyReference.cache
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.Properties.Resources.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.csproj.CopyComplete
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.ui_signup.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.ui_dashboard.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.Login.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.UserControls.UC_Welcome.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.UserControls.UCAddItem.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.UserControls.UCTableRes.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.UserControls.UC_Placeorder.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.UserControls.UC_UpdateItems.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.UserControls.UC_RemoveItem.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.UserControls.Uc_AddRes.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods_SDP.UserControls.UC_TableSearch.resources
+C:\Users\Sajjitha Walallawita\Desktop\5SEM\Final Projecrt\Final Projecrt\New folder\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.csproj.AssemblyReference.cache
+C:\Users\Sajjitha Walallawita\Desktop\5SEM\Final Projecrt\Final Projecrt\New folder\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.dll
+C:\Users\Sajjitha Walallawita\Desktop\5SEM\Final Projecrt\Final Projecrt\New folder\jagathFoods-SDP\obj\Debug\net7.0-windows\refint\jagathFoods-SDP.dll
+C:\Users\Sajjitha Walallawita\Desktop\5SEM\Final Projecrt\Final Projecrt\New folder\jagathFoods-SDP\obj\Debug\net7.0-windows\jagathFoods-SDP.pdb

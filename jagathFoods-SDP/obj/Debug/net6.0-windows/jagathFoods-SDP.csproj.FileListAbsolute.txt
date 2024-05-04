@@ -1,0 +1,16 @@
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net6.0-windows\jagathFoods-SDP.exe
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net6.0-windows\jagathFoods-SDP.deps.json
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net6.0-windows\jagathFoods-SDP.runtimeconfig.json
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net6.0-windows\jagathFoods-SDP.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\bin\Debug\net6.0-windows\jagathFoods-SDP.pdb
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\jagathFoods_SDP.Form1.resources
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\jagathFoods-SDP.csproj.GenerateResource.cache
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\jagathFoods-SDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\jagathFoods-SDP.AssemblyInfoInputs.cache
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\jagathFoods-SDP.AssemblyInfo.cs
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\jagathFoods-SDP.csproj.CoreCompileInputs.cache
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\jagathFoods-SDP.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\refint\jagathFoods-SDP.dll
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\jagathFoods-SDP.pdb
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\jagathFoods-SDP.genruntimeconfig.cache
+C:\Users\Prabha\source\repos\jagathFoods-SDP\jagathFoods-SDP\obj\Debug\net6.0-windows\ref\jagathFoods-SDP.dll
